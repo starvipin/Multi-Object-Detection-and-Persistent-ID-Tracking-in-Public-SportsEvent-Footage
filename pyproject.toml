@@ -14,6 +14,7 @@ dependencies = [
     "torch",
     "torchvision",
     "torchaudio",
+    "yt-dlp>=2026.3.17",
 ]
 
 # ... aapka upar ka code ...
