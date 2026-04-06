@@ -48,6 +48,6 @@ uv sync
 ```
 **3. dataset: **
 ```base
-"https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/2"
+https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/2
 ```
 **4. Now, navigate to the **src folder**, select the "Multi-Object Detection and Persistent ID Tracking in Public Sports/Event Footage" kernel, and run the .ipynb notebook.**
