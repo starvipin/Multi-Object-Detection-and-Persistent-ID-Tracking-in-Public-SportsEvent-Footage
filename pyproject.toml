@@ -11,10 +11,11 @@ dependencies = [
     "opencv-python>=4.13.0.92",
     "scikit-learn>=1.8.0",
     "ultralytics>=8.4.33",
-    "torch",
-    "torchvision",
-    "torchaudio",
     "yt-dlp>=2026.3.17",
+    "tqdm>=4.67.3",
+    "utile>=1.0",
+    "utils>=1.0.2",
+    "pandas>=3.0.2",
 ]
 
 # ... aapka upar ka code ...
@@ -23,9 +24,3 @@ dependencies = [
 name = "pytorch"
 url = "https://download.pytorch.org/whl/cu121"
 explicit = true
-
-# 👇 Yeh naya section add karo
-[tool.uv.sources]
-torch = { index = "pytorch" }
-torchvision = { index = "pytorch" }
-torchaudio = { index = "pytorch" }
