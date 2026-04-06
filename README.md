@@ -35,8 +35,8 @@ This project uses [uv](https://github.com/astral-sh/uv) for lightning-fast and a
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/yourusername/football-video-processor.git](https://github.com/yourusername/football-video-processor.git)
-cd football-video-processor
+git clone [https://github.com/starvipin/Multi-Object-Detection-and-Persistent-ID-Tracking-in-Public-SportsEvent-Footage]
+cd Multi-Object-Detection-and-Persistent-ID-Tracking-in-Public-SportsEvent-Footage
 ```
 **2. Install uv (Fast Package Manager):**
 ```bash
